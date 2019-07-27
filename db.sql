@@ -1,0 +1,1 @@
+insert common of sql
